@@ -1,16 +1,20 @@
-### Hi there 👋
+# Desirée Cáceres––@descxcrs <a href="https://womenmake.com/@descxcrs" title="Women Make founding member">🌺</a>
 
-<!--
-**descxcrs/descxcrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Des. 👩🏽‍💻  I decided to teach myself programming and web development after graduating university. I also have a degree in Chemical & Biomedical Engineering. I am passionate about creating beautiful, responsive, and accessible UI - additionally I love lifting 🏋🏽‍♀️, art 🎨, and my dog Nova 🐶
 
-Here are some ideas to get you started:
+Currently learning & working as the UX Project Lead @ FSU Facilities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🔮 Technologies I use
+**Web:** 
+- **Frontend**: *html5, css3, javascript, react.js, frontend libraries (semantic ui, bootstrap, etc...)*
+- **Backend**: *express.js, mongodb*
+
+**Native:** 
+- *dart, flutter*
+
+---
+### ✨ Connect with me
+- **twitter**: @descxcrs
+- **telegram**: @descxcrs
+- **e-mail**: descxcrs@gmail.com
