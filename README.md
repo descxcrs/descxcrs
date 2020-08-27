@@ -1,6 +1,6 @@
 # Desirée Cáceres––@descxcrs <a href="https://womenmake.com/@descxcrs" title="Women Make founding member">🌺</a>
 
-Hey, I'm Des. 👩🏽‍💻  I decided to teach myself programming and web development after graduating university. I also have a degree in Chemical & Biomedical Engineering. I am passionate about creating beautiful, responsive, and accessible UI - additionally I love lifting 🏋🏽‍♀️, art 🎨, and my dog Nova 🐶
+¡Hola! I'm Des. 👩🏽‍💻  I decided to teach myself programming and web development after graduating university. I also have a degree in Chemical & Biomedical Engineering. I am passionate about creating beautiful, responsive, and accessible UI - additionally I love lifting 🏋🏽‍♀️, art 🎨, and my dog Nova 🐶
 
 Currently learning & working as the UX Project Lead @ FSU Facilities. 
 
