@@ -15,8 +15,8 @@ Currently learning & working as the UX Project Lead @ FSU Facilities.
 
 ---
 ### ✨ Connect with me
+- **dribble**: <a href="https://dribbble.com/descxcrs">descxcrs</a>
 - **twitter**: @descxcrs
 - **telegram**: @descxcrs
-- **dribble**: https://dribbble.com/descxcrs
 - **behance**: <a href="https://www.behance.net/desiree_caceres">desiree_caceres</a>
 - **e-mail**: descxcrs@gmail.com
