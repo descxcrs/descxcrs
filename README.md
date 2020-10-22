@@ -8,11 +8,11 @@ Currently learning & working as the UX Project Lead @ FSU Facilities.
 ### 🔮 Tools I use
 
 **Design:**
-- *photoshop, figma, adobe xd*
+- *figma, photoshop, illustrator, xd*
 
 **Web:** 
-- **Frontend**: *html5, css3, javascript, react.js, frontend libraries (semantic ui, bootstrap, etc...)*
-- **Backend**: *express.js, mongodb*
+- **frontend**: *html5, css3, javascript, react.js, frontend libraries (semantic ui, bootstrap, etc...)*
+- **backend**: *express.js, mongodb*
 
 **Native:** 
 - *dart, flutter*
